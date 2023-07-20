@@ -4,6 +4,12 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: [
       {
+        title: "2023/July",
+        collapsable: true,
+        children: [
+          "./2023/july/learn-shopify-9-days-with-chatgpt"]
+      },
+      {
         title: "2021/March",
         collapsable: true,
         children: [
