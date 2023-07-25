@@ -8,7 +8,7 @@ module.exports = {
         collapsable: true,
         children: [
           "./2023/july/learn-shopify-9-days-with-chatgpt",
-          "./2023/july/dedicate_ to_outcomes_for_a_shopify_client"]
+          "./2023/july/dedicate_to_outcomes_for_a_shopify_client"]
       },
       {
         title: "2021/March",
