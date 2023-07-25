@@ -50,7 +50,8 @@ Check it out here the [learning process](https://64b9b97925aa7b000817f438--elega
 
     - Shopify Partners
     - Shopify Store Development
-    - App Setup
+    - Shopify App Theme Development
+    - App Setup (At Shopify Partners)
     - Client's lack of Docker-composer to run several services at once
     - Client's project recently migrate to Shopify CLI 3.x
 
