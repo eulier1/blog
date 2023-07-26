@@ -5,7 +5,10 @@ With 5 years of experience but a neophyte with Shopify Platform, I ask ChatGPT t
 ### ChatGPT Prompt
 
 ```bash
-Develop a roadmap of 3 days to fix a bug on a liquid file as an experience web developer with 5 years of experience but new to Shopify platform. Provide a schedule to dedicate time
+Develop a roadmap of 3 days to fix a bug on a liquid file 
+as an experience web developer with 5 years of experience 
+but new to Shopify platform. 
+Provide a schedule to dedicate time
 ```
 
 ### ChatGPT Output
