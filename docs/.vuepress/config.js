@@ -9,7 +9,8 @@ module.exports = {
         children: [
           "./2023/july/learn-shopify-9-days-with-chatgpt",
           "./2023/july/dedicate-to-outcomes-for-a-shopify-client",
-          "./2023/july/chathpt_roadmap_first_task_shopify_client"
+          "./2023/july/chathpt_roadmap_first_task_shopify_client",
+          "./2023/july/chatgpt-roadmap-crossborder-payment"
         ]
       },
       {
