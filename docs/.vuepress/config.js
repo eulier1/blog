@@ -4,6 +4,13 @@ module.exports = {
     displayAllHeaders: true,
     sidebar: [
       {
+        title: "2023/September",
+        collapsable: true,
+        children: [
+          "./2023/september/improve-performance-for-an-upwork-client-with-shopify",
+        ]
+      },
+      {
         title: "2023/July",
         collapsable: true,
         children: [
