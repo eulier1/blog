@@ -8,6 +8,7 @@ module.exports = {
         collapsable: true,
         children: [
           "./2023/september/improve-performance-for-an-upwork-client-with-shopify",
+          "./2023/september/perfection-and-time-market",
         ]
       },
       {
