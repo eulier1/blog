@@ -7,7 +7,7 @@
 
 ## Abstract
 
-Since I'm helping a Client with their Shopify App for Merchants & Customers.
+Helping an Upwork's client with their Shopify App for Merchants & Customers.
 
 My client with over 7 years of experience with Shopify, teach me a valuable lesson about launch a product.
 
