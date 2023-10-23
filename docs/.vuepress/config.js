@@ -101,7 +101,7 @@ module.exports = {
     nav: [
       {
         text: "Portfolio",
-        link: "https://eulier1.github.io/quieneseulier1/"
+        link: "https://eulier1.github.io/portfolio-nuxt3"
       },
       {
         text: "Linkedin",
